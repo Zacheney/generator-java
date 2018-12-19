@@ -1,0 +1,2 @@
+# generator-java
+利用freemarker自动生成后台的实体类以及相关java代码
